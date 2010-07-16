@@ -1,0 +1,14 @@
+A script to parse the Things Database.xml file and list the tasks for a particular project
+
+  ruby things.rb PROJECT_NAME PATH_TO_DATABASE
+
+
+e.g
+
+  ruby things.rb "My Big Project" "/Users/wal/Library/Application Support/Cultured Code/Things/database.xml"
+                                                                       
+or just
+  
+	ruby things.rb "My Big Project"
+	
+if your things database is in the standard location "~/Library/Application Support/Cultured Code/Things/database.xml"
