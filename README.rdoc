@@ -8,7 +8,6 @@ e.g
   ruby things.rb "My Big Project" "/Users/wal/Library/Application Support/Cultured Code/Things/database.xml"
                                                                        
 or just
-  
 	ruby things.rb "My Big Project"
 	
-if your things database is in the standard location "~/Library/Application Support/Cultured Code/Things/database.xml"
+if your things database is in the standard location ~/Library/Application Support/Cultured Code/Things/database.xml
